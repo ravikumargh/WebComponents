@@ -1,0 +1,18 @@
+﻿
+<div class="pagination-container">
+    <div>
+        Page <input type="text" value="1" data-bind="value:$data.currentPage ,valueUpdate: 'afterkeydown'" />  of <!-- ko text : $data.numberOfPages --><!-- /ko -->
+    </div>
+    <div>
+        <!-- ko text : $data.totalRecord --><!-- /ko --> records found
+    </div>
+    <div>
+        <button class="btn btn-primary" data-bind="click:$data.first">first</button>
+        <button class="btn btn-primary" data-bind="click:$data.previous">Previous</button>
+        <button class="btn btn-primary" data-bind="click:$data.next">Next</button>
+        <button class="btn btn-primary" data-bind="click:$data.last">Last</button>
+    </div>
+    <div>
+        Page size <input type="text" data-bind="value:$data.perPage ,valueUpdate: 'afterkeydown' , event: { keypress: $data.updatePageSize } " />
+    </div>
+</div>

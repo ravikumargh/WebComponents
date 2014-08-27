@@ -1,0 +1,49 @@
+﻿
+/* line 3, ../app/ui/elements/searchresult/searchresult.scss */
+.search-container {
+  width: 100%;
+}
+/* line 6, ../app/ui/elements/searchresult/searchresult.scss */
+.search-container .header {
+  font-size: 13px;
+  font-weight: 700;
+}
+/* line 11, ../app/ui/elements/searchresult/searchresult.scss */
+.search-container .block-group {
+  border-top: 1px solid;
+  border-top-style: dotted;
+  padding: 8px;
+}
+/* line 17, ../app/ui/elements/searchresult/searchresult.scss */
+.search-container .block-group:last-child {
+  border-bottom: 1px solid;
+  border-bottom-style: dotted;
+}
+/* line 22, ../app/ui/elements/searchresult/searchresult.scss */
+.search-container .item {
+  width: 15%;
+}
+
+/* line 27, ../app/ui/elements/searchresult/searchresult.scss */
+.pagination-container {
+  margin-bottom: 20px;
+  padding: 20px;
+}
+/* line 32, ../app/ui/elements/searchresult/searchresult.scss */
+.pagination-container input {
+  height: 24px;
+  width: 30px;
+}
+/* line 37, ../app/ui/elements/searchresult/searchresult.scss */
+.pagination-container div {
+  color: #717171;
+  display: inline-block;
+  font-weight: bold;
+  padding: 5px;
+}
+/* line 44, ../app/ui/elements/searchresult/searchresult.scss */
+.pagination-container .btn {
+  height: 25px;
+  margin: 0;
+  padding: 0;
+}

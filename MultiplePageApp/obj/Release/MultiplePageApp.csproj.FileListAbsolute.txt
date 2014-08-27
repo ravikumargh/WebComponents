@@ -1,0 +1,5 @@
+D:\SampleProjects\AspNet\WebComponents\MultiplePageApp\bin\MultiplePageApp.dll.config
+D:\SampleProjects\AspNet\WebComponents\MultiplePageApp\bin\MultiplePageApp.dll
+D:\SampleProjects\AspNet\WebComponents\MultiplePageApp\bin\MultiplePageApp.pdb
+D:\SampleProjects\AspNet\WebComponents\MultiplePageApp\obj\Release\MultiplePageApp.dll
+D:\SampleProjects\AspNet\WebComponents\MultiplePageApp\obj\Release\MultiplePageApp.pdb

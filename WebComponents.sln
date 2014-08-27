@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebComponents", "WebComponents\WebComponents.csproj", "{E6CD4055-06C5-4A24-80F2-C36F6D8DABBB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{20FFE5C1-9340-456D-AD41-BA6F0BB6C2E3}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\AzureWebsitePublishModule.psm1 = PublishScripts\AzureWebsitePublishModule.psm1
+		PublishScripts\Publish-WebApplicationWebsite.ps1 = PublishScripts\Publish-WebApplicationWebsite.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{70942652-F007-4417-A28B-225AF537BF71}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Configurations\MultiplePageApp-WAWS-dev.json = PublishScripts\Configurations\MultiplePageApp-WAWS-dev.json
+		PublishScripts\Configurations\WebComponents-WAWS-dev.json = PublishScripts\Configurations\WebComponents-WAWS-dev.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplePageApp", "MultiplePageApp\MultiplePageApp.csproj", "{25781F22-2B68-44E7-ACC2-B6EBF5DB5AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6CD4055-06C5-4A24-80F2-C36F6D8DABBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CD4055-06C5-4A24-80F2-C36F6D8DABBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CD4055-06C5-4A24-80F2-C36F6D8DABBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CD4055-06C5-4A24-80F2-C36F6D8DABBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25781F22-2B68-44E7-ACC2-B6EBF5DB5AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25781F22-2B68-44E7-ACC2-B6EBF5DB5AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25781F22-2B68-44E7-ACC2-B6EBF5DB5AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25781F22-2B68-44E7-ACC2-B6EBF5DB5AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{70942652-F007-4417-A28B-225AF537BF71} = {20FFE5C1-9340-456D-AD41-BA6F0BB6C2E3}
+	EndGlobalSection
+EndGlobal

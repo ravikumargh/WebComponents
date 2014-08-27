@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script data-main="app" src="lib/require.js"></script>
+        <link href="style/pocketgrid.css" rel="stylesheet" />
+        <link href="app/searchresult/Style.css" rel="stylesheet" />
+    </head>
+    <body>
+        <mi-search-result  ></mi-search-result> 
+        <p>First name: <input data-bind="value: firstName" /></p>
+        <p>First name capitalized: <strong data-bind="text: firstNameCaps"></strong></p>
+         
+        <div data-bind="withProperties: { emotion: 'happy' }">
+            
+        </div>
+        <div data-bind="miSearchResultProperty: { emotion: 'happy' }">
+
+        </div>
+         
+    </body>
+</html>

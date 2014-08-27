@@ -1,0 +1,18 @@
+﻿{
+    "paging":{"page":1,"per_page":5,"total":13},
+    "data":[
+            {"entityKey":"64253032662","familyKey":"64253028944","familyCaption":"RR_TEST RR_TEST familyCaption relationshipCaptions RR_TEST familyCaption relationshipCaptions","itemID":" & &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032663","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":" &123 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032664","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":" &234 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032665","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":" &343 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032666","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":" &455 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032667","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":" &7857 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032668","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":"2 & &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032669","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":"23 & &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032670","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":"aas &12 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032671","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":"sed &34 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032672","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":"test &53 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032673","familyKey":"64253028944","familyCaption":"RR_TEST","itemID":"test1 &331 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]},
+            {"entityKey":"64253032674","familyKey":"64253028944","familyCaption":"RR_TEST familyCaption relationshipCaptions","itemID":"test2 &332 &","relationshipKeys":[],"relationshipCaptions":[],"score":3.43795681,"action":"","searchActions":[]}
+            ]
+}
